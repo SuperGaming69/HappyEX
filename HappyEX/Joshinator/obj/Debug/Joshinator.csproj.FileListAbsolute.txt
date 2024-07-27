@@ -1,0 +1,14 @@
+D:\Joshex\Joshinator\Joshinator\bin\Debug\Joshinator.exe.config
+D:\Joshex\Joshinator\Joshinator\bin\Debug\Joshinator.exe
+D:\Joshex\Joshinator\Joshinator\bin\Debug\Joshinator.pdb
+D:\Joshex\Joshinator\Joshinator\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.csproj.AssemblyReference.cache
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.csproj.SuggestedBindingRedirects.cache
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.JoshEX.resources
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.Properties.Resources.resources
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.csproj.GenerateResource.cache
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.csproj.CoreCompileInputs.cache
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.csproj.CopyComplete
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.exe
+D:\Joshex\Joshinator\Joshinator\obj\Debug\Joshinator.pdb
+D:\Joshex\Joshinator\Joshinator\bin\Debug\Oxygen API.dll
